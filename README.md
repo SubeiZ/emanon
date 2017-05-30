@@ -1,3 +1,4 @@
 # emanon
 
-http://pan.baidu.com/s/1kUGYO8B
+优酷
+http://www.youku.com/
