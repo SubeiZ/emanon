@@ -3,11 +3,11 @@
 ***
 ## [视频](./video)
 * [视频](/video/video)
-  * [美剧](/美剧.md)
-  * [日剧](/日剧.md)
-  * [韩剧](/韩剧.md)
-  * [高清](/高清.md)
-  * [类型站](/类型站.md)
+  * [美剧](/video/video/美剧.md)
+  * [日剧](/video/video/日剧.md)
+  * [韩剧](/video/video/韩剧.md)
+  * [高清](/video/video/高清.md)
+  * [类型站](/video/video/类型站.md)
 * [字幕](/video/字幕.md)
 * [动漫](/video/动漫.md)
 
