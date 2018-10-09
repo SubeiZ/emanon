@@ -20,7 +20,7 @@
 * [二维码](/tools/二维码.md)
 * [测速](/tools/测速.md)
 * [ip](/tools/ip.md)
-* [OCR](/tools/O)
+* [OCR](/tools/OCR.md)
 
 
 
