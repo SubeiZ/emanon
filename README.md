@@ -51,7 +51,7 @@
 ## [导航](/navigation)
 
 
-[![](https://www.zhihu.com/favicon.ico "我的知乎，欢迎关注")]
+[![花似](https://www.zhihu.com/favicon.ico)](https://www.zhihu.com/people/hua4/)
 
 [回到顶部](#书签个人)
 
