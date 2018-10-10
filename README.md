@@ -19,6 +19,10 @@
 
 ## [音乐](/music)
 * [音乐](/music/音乐.md)
+* [无损](/music/无损.md)
+* [电台](/music/电台.md)
+* [音频](/music/音频.md)
+* [歌词](/music/歌词.md)
 
 ## [图片](/photo)
 * [图片处理](/photo/图片处理.md)
