@@ -38,7 +38,7 @@
 
 ## [阅读](/reads)
 * [IT](/reads/IT.md)
-* [新闻](/reads/.md)
+* [新闻](/reads/news.md)
 
 ## [图片](/photo)
 * [图片处理](/photo/图片处理.md)
