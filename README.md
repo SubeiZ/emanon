@@ -44,7 +44,7 @@
 * [MarkDown](/notes/MarkDown.md)
 * [文本分享](/notes/文本分享.md)
 
-## [在线工具](/tools)
+## [工具](/tools)
 * [PDF](/tools/PDF.md)
 * [接码](/tools/接码.md)
 * [二维码](/tools/二维码.md)
