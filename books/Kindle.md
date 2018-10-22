@@ -1,3 +1,3 @@
 # kindle
 
-[书伴](https://bookfere.com/)
+* [书伴](https://bookfere.com/)
