@@ -39,7 +39,7 @@
 
 ## [图书](/books)
 * [Kindle](/books/Kindle.md)
-* [外文书](/books/外文书.md)
+* [外籍书](/books/外籍书.md)
 * [有声书](/books/有声书.md)
 * [古籍书](/books/古籍书.md)
 
