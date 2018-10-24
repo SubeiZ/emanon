@@ -24,6 +24,10 @@
   * [类型站](/video/video/类型站.md)
 * [字幕](/video/字幕.md)
 * [动漫](/video/动漫.md)
+* [直播](/video/直播.md)
+  * [电视直播](/video/直播.md#电视直播)
+  * [网络直播](/video/直播.md#网络直播)
+  * [体育直播](/video/直播.md#体育直播)
 
 ## [漫画](/comic)
 * [漫画](/comic/漫画.md)
