@@ -8,16 +8,6 @@ html {
 }
 
 
-
-
-
-
-strong {
-  font-weight: bold;
-  color: #333;
-}
-
-
 section img {
   max-width: 100%;
 }
@@ -29,21 +19,6 @@ blockquote {
   font-style:italic;
 }
 
-
-
-
-hr {
-  border: 0;
-  outline: none;
-  height: 11px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
-  margin: 0 0 20px;
-}
-
-dt {
-  color:#444;
-  font-weight:700;
-}
 
 
   .fork {
@@ -87,15 +62,7 @@ dt {
     }
   }
 
-  #logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    right:7px;
-    top:7px;
-    display: block;
-    background: url(../images/octocat-logo.svg);
-  }
+
 }
 
 section {
@@ -110,9 +77,7 @@ section {
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
 }
 
-small {
-  font-size:12px;
-}
+
 
 nav {
   width: 230px;
