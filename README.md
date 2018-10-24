@@ -13,7 +13,7 @@
 
 ---
 
-## [视频](./video)
+## 视频
 * [视频](/video/video)
   * [美剧](/video/video/美剧.md)
     * [下载](/video/video/美剧.md#下载)
