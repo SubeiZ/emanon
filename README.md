@@ -68,6 +68,7 @@
 * [测速](/tools/测速.md)
 * [ip](/tools/ip.md)
 * [OCR](/tools/OCR.md)
+* [字体](/tools/字体.md)
 
 ## 导航
 * [导航](/dhang/导航.md)
