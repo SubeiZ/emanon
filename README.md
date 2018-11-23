@@ -4,7 +4,7 @@
 
 
 [![](https://img.shields.io/github/forks/subeiz/emanon.svg)](https://github.com/subeiz/emanon/network)
-
+[![](https://img.shields.io/github/stars/subeiz/emanon.svg)](https://github.com/subeiz/emanon/stargazers)
 
 
 ### 目录
