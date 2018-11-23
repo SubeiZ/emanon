@@ -1,5 +1,10 @@
 
 # 书签（个人）
+
+
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?label=Stars&style=flat-square)](https://github.com/SubeiZ/emanon)
+
+
 ### 目录
 * [视频](#视频)
 * [漫画](#漫画)
