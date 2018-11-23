@@ -6,8 +6,9 @@
 [![](https://img.shields.io/github/forks/subeiz/emanon.svg)](https://github.com/subeiz/emanon/network)
 [![](https://img.shields.io/github/stars/subeiz/emanon.svg)](https://github.com/subeiz/emanon/stargazers)
 
+[![GitHub stars](https://img.shields.io/github/stars/subeiz/emanon.svg?label=Stars&style=flat-square)](https://github.com/subeiz/emanon/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/subeiz/emanon.svg)?label=Stars&style=flat-square)](https://github.com/subeiz/emanon/network)
 
-![GitHub stars](https://img.shields.io/github/stars/subeiz/emanon.svg?label=Stars&style=for-the-badge)
 
 
 
