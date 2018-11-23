@@ -2,7 +2,7 @@
 # 书签（个人）
 
 [![GitHub stars](https://img.shields.io/github/stars/subeiz/emanon.svg?label=Stars&style=flat-square)](https://github.com/subeiz/emanon/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/subeiz/emanon.svg?label=Fork&style=flat-square)](https://github.com/subeiz/emanon/network)
+[![GitHub forks](https://img.shields.io/github/forks/subeiz/emanon.svg?label=Fork&style=flat-square&?colorB=BLACK)](https://github.com/subeiz/emanon/network)
 
 ### 目录
 * [视频](#视频)
