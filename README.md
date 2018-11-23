@@ -3,7 +3,7 @@
 
 
 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=flat-square)](https://github.com/SubeiZ/emanon)
+[![](https://img.shields.io/github/forks/subeiz/emanon.svg)](https://github.com/subeiz/emanon/network)
 
 
 
