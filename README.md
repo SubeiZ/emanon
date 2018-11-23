@@ -2,7 +2,9 @@
 # 书签（个人）
 
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?label=Stars&style=flat-square)](https://github.com/SubeiZ/emanon)
+
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=flat-square)](https://github.com/SubeiZ/emanon)
+
 
 
 ### 目录
