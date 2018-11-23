@@ -7,6 +7,10 @@
 [![](https://img.shields.io/github/stars/subeiz/emanon.svg)](https://github.com/subeiz/emanon/stargazers)
 
 
+![GitHub stars](https://img.shields.io/github/stars/subeiz/emanon.svg?label=Stars&style=for-the-badge)
+
+
+
 ### 目录
 * [视频](#视频)
 * [漫画](#漫画)
