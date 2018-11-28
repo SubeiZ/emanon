@@ -73,6 +73,7 @@
 * [ip](/tools/ip.md)
 * [OCR](/tools/OCR.md)
 * [图标](/tools/图标.md)
+* [下载](/tools/download.md) 
 
 ## 导航
 * [导航](/dhang/导航.md)
