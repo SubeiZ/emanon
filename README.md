@@ -68,8 +68,8 @@
 ## 工具
 * [PDF](/tools/PDF.md)
 * [接码](/tools/接码.md)
-* [二维码](/tools/二维码.md)
-* [测速](/tools/测速.md)
+* [二维码](/tools/QRCode.md)
+* [测速](/tools/speedtest.md)
 * [ip](/tools/ip.md)
 * [OCR](/tools/OCR.md)
 * [图标](/tools/图标.md)
