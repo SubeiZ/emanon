@@ -1,3 +1,6 @@
+# Text sharing
+###
 * [Note.ms](https://note.ms/)
 * [notepad.pw](https://notepad.pw/)
 * [Privnote](https://privnote.com/)
+* [Simple.Savr](https://www.ssavr.com/)
