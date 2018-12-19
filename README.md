@@ -55,6 +55,9 @@
 ## 阅读
 * [IT](/reads/IT.md)
 * [新闻](/reads/news.md)
+* [国外](/reads/foreign-news.md)
+* [图识新闻](/reads/pic-news.md)
+* [图识知识点](/reads/pic-point.md)
 
 ## 图片
 * [图片处理](/photo/图片处理.md)
