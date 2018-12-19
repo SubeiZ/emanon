@@ -74,6 +74,7 @@
 * [OCR](/tools/OCR.md)
 * [图标](/tools/图标.md)
 * [下载](/tools/download.md) 
+* [时间](/tools/time.md) 
 
 ## 导航
 * [导航](/dhang/导航.md)
