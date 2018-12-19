@@ -55,9 +55,9 @@
 ## 阅读
 * [IT](/reads/IT.md)
 * [新闻](/reads/news.md)
-* [国外](/reads/foreign-news.md)
-* [图识新闻](/reads/pic-news.md)
-* [图识知识点](/reads/pic-point.md)
+* [国外资讯](/reads/foreign-news.md)
+* [图解新闻](/reads/pic-news.md)
+* [图解知识点](/reads/pic-point.md)
 
 ## 图片
 * [图片处理](/photo/图片处理.md)
@@ -70,7 +70,7 @@
 
 ## 工具
 * [PDF](/tools/PDF.md)
-* [接码](/tools/接码.md)
+* [接码](/tools/sms.md)
 * [二维码](/tools/QRCode.md)
 * [测速](/tools/speedtest.md)
 * [ip](/tools/ip.md)
