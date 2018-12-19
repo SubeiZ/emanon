@@ -60,8 +60,8 @@
 * [图解知识点](/reads/pic-point.md)
 
 ## 图片
-* [图片处理](/photo/图片处理.md)
-* [图片压缩](/photo/图片压缩.md)
+* [图片处理](/photo/pic-editing.md)
+* [图片压缩](/photo/pic-compress.md)
 
 ## 笔记
 * [笔记](/notes/笔记.md)
