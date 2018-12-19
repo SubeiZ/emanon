@@ -63,7 +63,7 @@
 ## 笔记
 * [笔记](/notes/笔记.md)
 * [MarkDown](/notes/MarkDown.md)
-* [文本分享](/notes/文本分享.md)
+* [文本分享](/notes/text-sharing.md)
 
 ## 工具
 * [PDF](/tools/PDF.md)
@@ -72,7 +72,7 @@
 * [测速](/tools/speedtest.md)
 * [ip](/tools/ip.md)
 * [OCR](/tools/OCR.md)
-* [图标](/tools/图标.md)
+* [图标](/tools/icon.md)
 * [下载](/tools/download.md) 
 * [时间](/tools/time.md) 
 
