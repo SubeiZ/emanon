@@ -41,10 +41,10 @@
 
 ## 音乐
 * [音乐](/music/音乐.md)
-* [无损](/music/无损.md)
-* [电台](/music/电台.md)
-* [音频](/music/音频.md)
-* [歌词](/music/歌词.md)
+* [无损](/music/lossless.md)
+* [电台](/music/fm.md)
+* [音频](/music/audio.md)
+* [歌词](/music/lyric.md)
 
 ## 图书
 * [Kindle](/books/Kindle.md)
