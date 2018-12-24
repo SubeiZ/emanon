@@ -64,7 +64,7 @@
 * [图片压缩](/photo/pic-compress.md)
 
 ## 笔记
-* [笔记](/notes/笔记.md)
+* [笔记](/notes/notes.md)
 * [MarkDown](/notes/MarkDown.md)
 * [文本分享](/notes/text-sharing.md)
 
@@ -80,7 +80,7 @@
 * [时间](/tools/time.md) 
 
 ## 导航
-* [导航](/dhang/导航.md)
+* [导航](/dhang/dhang.md)
 
 ***
 
