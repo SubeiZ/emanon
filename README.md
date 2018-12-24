@@ -19,13 +19,13 @@
 
 ## 视频
 * 视频
-  * [美剧](/video/video/美剧.md)
-    * [下载](/video/video/美剧.md#下载)
-    * [视频网站](/video/video/美剧.md#视频网站)
+  * [美剧](/video/video/U.S.-drama.md)
+    * [下载](/video/video/U.S.-drama.md#下载)
+    * [视频网站](/video/video/U.S.-drama.md#视频网站)
   * [日剧](/video/video/japanese-drama.md)
   * [韩剧](/video/video/korean-drama.md)
   * [高清](/video/video/HD.md)
-  * [类型站](/video/video/类型站.md)
+  * [类型站](/video/video/other.md)
 * [字幕](/video/subtitle.md)
 * [动漫](/video/anime.md)
 * [直播](/video/live-broadcast.md)
