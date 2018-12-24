@@ -35,9 +35,9 @@
 * [18+](/video/18+.md):underage:
 
 ## 漫画
-* [漫画](/comic/漫画.md)
-* [美漫](/comic/美漫.md)
-* [韩漫](/comic/韩漫.md)
+* [漫画](/comic/comic.md)
+* [美漫](/comic/american-comic.md)
+* [韩漫](/comic/korean-comic.md)
 
 ## 音乐
 * [音乐](/music/music.md)
