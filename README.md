@@ -40,7 +40,7 @@
 * [韩漫](/comic/韩漫.md)
 
 ## 音乐
-* [音乐](/music/音乐.md)
+* [音乐](/music/music.md)
 * [无损](/music/lossless.md)
 * [电台](/music/fm.md)
 * [音频](/music/audio.md)
@@ -48,9 +48,9 @@
 
 ## 图书
 * [Kindle](/books/Kindle.md)
-* [外籍书](/books/外籍书.md)
-* [有声书](/books/有声书.md)
-* [古籍书](/books/古籍书.md)
+* [外籍书](/books/foreign-book.md)
+* [有声书](/books/audio-book.md)
+* [古籍书](/books/ancient-book.md)
 
 ## 阅读
 * [IT](/reads/IT.md)
